@@ -203,7 +203,7 @@ typeof null 的结果是Object。
 
 那也就是说null的类型标签也是000，和Object的类型标签一样，所以会被判定为Object。
 
-### 6. intanceof 操作符的实现原理及实现
+### 6. instanceof 操作符的实现原理及实现
 
  instanceof 运算符用于判断构造函数的 prototype 属性是否出现在对象的原型链中的任何位置。
 
